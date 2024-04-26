@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603765983426",
+    "project_id": "fir-series-fc925",
+    "storage_bucket": "fir-series-fc925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603765983426:android:ea73e01e592fdc0d42135b",
+        "android_client_info": {
+          "package_name": "com.example.jobify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSve8d_tTfpO6itgjEWVL77bsdgMkBfzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
